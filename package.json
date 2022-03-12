@@ -1,0 +1,15 @@
+{
+  "name": "hastric",
+  "version": "1.0.0",
+  "description": "A app which fakes your discord rpc",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "tommy shelby",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "electron": "^17.1.2"
+  }
+}
